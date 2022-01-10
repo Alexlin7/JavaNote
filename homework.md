@@ -4,6 +4,9 @@ tags: diaries
 
 # Java 作業
 
+[![hackmd-github-sync-badge](https://hackmd.io/XxnaofokQhSNLeL5rFbH8g/badge)](https://hackmd.io/XxnaofokQhSNLeL5rFbH8g)
+
+
 > 大二上學期的java作業 
 > 
 > 每題都有一個題目敘述、參考解答及我的程式碼
