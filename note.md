@@ -1,6 +1,9 @@
 Java筆記
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/zzWDJExySwu-zrd5RRCIKQ/badge)](https://hackmd.io/zzWDJExySwu-zrd5RRCIKQ)
+
 物件導向(特別厲害)
 ===
 
